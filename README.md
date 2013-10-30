@@ -35,7 +35,7 @@ Now use Yeoman to create your project files
 Then proceed to answer a few questions about your project.
 
 	[?] Would you mind telling me your username on Github? jonniespratley
-	[?] What's the base name of your project? angular-rickshaw-directive
+	[?] What's the base name of your project? ng-chartjs-directive
 	[?] Under which lincense your project shall be released? MIT
 	[?] Do you need the unstable branch of AngularJS? Yes
 	[?] Does your module requires CSS styles? Yes
@@ -47,7 +47,11 @@ For the component to be available via `bower` register the component, execute th
 
 	$ bower register [name] [endpoint]
 
-Now your component is available to the world via the `bower` package manager.
+Now your component is available to the world via the `bower` package manager. 
+
+To install just use:
+
+	$ bower install ng-chartjs-directive
 
 
 
