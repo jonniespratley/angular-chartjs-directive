@@ -1,4 +1,4 @@
-# angular-chartjs-directive
+# ng-chartjs-directive
 
 
 
